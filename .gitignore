@@ -1,0 +1,9 @@
+
+*.pyc
+.venv/
+
+.vscode/
+
+Pulumi.*.yaml
+Pulumi.*.yaml.*
+!Pulumi.dev.example.yaml

@@ -1,0 +1,6 @@
+# secrets protected by passphrase
+encryptionsalt: v1:fBv+zB6SxZo=:v1:VpyVyxvudAVcgT3W:iC4bf8NhYYgnFvu+uwLgHYUzuLEL0A==
+config:
+  databricks:host: https://xxx/
+  databricks:token:
+    secure: v1:oVe1riFWzBktGPuY:93Q3KfSgAxEbpYsvs5KyvnQWeDI/Vx2kOEzrr0oj1VOepGgPd45l8VPlA9qeh6ujk6dEEw==
